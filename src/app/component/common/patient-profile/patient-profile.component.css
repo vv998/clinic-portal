@@ -1,0 +1,10 @@
+.patient-profile-container {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .patient-profile-container > * {
+    width: 100%;
+    font-size: 20px;
+  }
+  
